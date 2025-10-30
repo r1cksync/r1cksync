@@ -122,6 +122,15 @@ with a 95% rank-based recommendation accuracy.
 
 ### ✨ “Build. Automate. Iterate. Learn.”  
 
+---
+
+### 🐍 Contribution Snake Animation  
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Fullstack+Developer;DevOps+%26+MLOps+Engineer;AI+and+Automation+Enthusiast;Always+learning+new+techs+🚀" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/r1cksync/r1cksync/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/r1cksync/r1cksync/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/r1cksync/r1cksync/output/github-snake.svg" />
+  </picture>
 </p>
+
